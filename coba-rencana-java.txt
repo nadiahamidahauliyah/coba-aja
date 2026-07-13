@@ -1,0 +1,7 @@
+RENCANA COBA JAVA
+- Dasar Dasar Java
+  *ES6
+  *Framework Javascript
+- Implementasi dasar dasar java
+- Lanjut level lebih tinggi
+- Impelemtasi java dari dasar ke level lebih tinggi
