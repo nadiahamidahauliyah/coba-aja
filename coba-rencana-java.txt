@@ -2,7 +2,9 @@ RENCANA COBA JAVA
 - Dasar Dasar Java
   *ES6
   *Framework Javascript
+      ^Vue
 - Struktur data dasar
 - Implementasi dasar dasar java
 - Lanjut level lebih tinggi
 - Impelemtasi java dari dasar ke level lebih tinggi
+- Python
