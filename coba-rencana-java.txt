@@ -3,6 +3,7 @@ RENCANA COBA JAVA
   *ES6
   *Framework Javascript
      ^Vue
+     ^React
 - Struktur data dasar
 - Implementasi dasar dasar java
 - Lanjut level lebih tinggi
