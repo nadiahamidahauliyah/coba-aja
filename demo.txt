@@ -1,1 +1,4 @@
-Ini dari barnch
+Belajar Git
+Belajar Branch
+Belajar Pull Request
+Belajar Marge
